@@ -20,7 +20,7 @@ class BankAccount {
 }
 	
 
-class BankAccountOO {
+public class BankAccountOO {
     public static void main(String[] args) {
         BankAccount yoon = new BankAccount();
         BankAccount park = new BankAccount();

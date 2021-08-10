@@ -20,7 +20,7 @@ class BankAccount {
 }
 	
 
-class PassingRef {
+public class PassingRef {
     public static void main(String[] args) {
         BankAccount ref = new BankAccount();
 

@@ -1,6 +1,6 @@
 package a1;
 
-class BankAccountPO {
+public class BankAccountPO {
     static int balance = 0;     // 예금 잔액
 
     public static void main(String[] args) {
